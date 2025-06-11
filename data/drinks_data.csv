@@ -1,0 +1,9 @@
+Class,Drink,Rank,Amount,Quantity,Count
+A,Coke,8,"(100, 200)","Random(500, 1000)",100
+B,Pepsi,7,"(200, 10)","Random(500, 1000)",200
+C,Sprite,6,"(200, 10)","Random(500, 1000)",100
+D,7Up,5,"(400, 100)","Random(500, 1000)",400
+E,Cappuccino ,4,"(700, 10)","Random(1, 500)",400
+F,Espresso,3,"(700, 10)","Random(1, 500)",200
+G,Latte,2,"(800, 300)","Random(1, 500)",100
+H,Mocha,1,"(900, 400)","Random(1, 500)",100
